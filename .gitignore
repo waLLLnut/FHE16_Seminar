@@ -1,0 +1,12 @@
+# 이 저장소는 실습(practice) 소스만 포함합니다.
+/slides/
+/setup/
+/references/
+/build.sh
+해야할 내용.txt
+beamer 내용.txt
+
+# ===== Python / Jupyter =====
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
