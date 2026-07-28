@@ -6,6 +6,11 @@
 해야할 내용.txt
 beamer 내용.txt
 
+# ===== numpy 버전 (저장소엔 pure 실습·답지만) =====
+practice/fhe_lwe_ntt_practice.ipynb
+practice/build_notebook.py
+practice/build_solution.py
+
 # ===== Python / Jupyter =====
 **/__pycache__/
 **/.ipynb_checkpoints/
