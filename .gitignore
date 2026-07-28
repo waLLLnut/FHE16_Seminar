@@ -1,4 +1,4 @@
-# 이 저장소는 실습(practice) 소스만 포함합니다.
+# 이 저장소는 실습 노트북(pure)과 답지만 공개합니다.
 /slides/
 /setup/
 /references/
@@ -6,12 +6,12 @@
 해야할 내용.txt
 beamer 내용.txt
 
-# ===== numpy 버전 (저장소엔 pure 실습·답지만) =====
-practice/fhe_lwe_ntt_practice.ipynb
-practice/build_notebook.py
-practice/build_solution.py
+# practice/ 에서는 실습·답지 노트북 2개만 (생성기·PDF·numpy 버전 등은 제외)
+practice/*
+!practice/fhe_lwe_ntt_practice_pure.ipynb
+!practice/fhe_lwe_ntt_practice_solution.ipynb
 
-# ===== Python / Jupyter =====
-**/__pycache__/
-**/.ipynb_checkpoints/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
 *.pyc
