@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-07-28T03:50:47.599699Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-07-28T03:50:46.228658Z",
+      "mimetype": null,
+      "name": "fhe_practice_v2_solution.ipynb",
+      "path": "fhe_practice_v2_solution.ipynb",
+      "size": 24323,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-07-28T03:50:47.599418Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-07-28T03:50:46.228537Z",
+      "mimetype": null,
+      "name": "fhe_practice_v2.ipynb",
+      "path": "fhe_practice_v2.ipynb",
+      "size": 23307,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-07-28T03:50:47.599699Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-07-28T03:50:47.599699Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
