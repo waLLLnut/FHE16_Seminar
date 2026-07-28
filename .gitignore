@@ -8,8 +8,8 @@ beamer 내용.txt
 
 # practice/ 에서는 실습·답지 노트북 2개만 (생성기·PDF·numpy 버전 등은 제외)
 practice/*
-!practice/fhe_lwe_ntt_practice_pure.ipynb
-!practice/fhe_lwe_ntt_practice_solution.ipynb
+!practice/fhe_practice_v2.ipynb
+!practice/fhe_practice_v2_solution.ipynb
 
 # Python / Jupyter
 __pycache__/

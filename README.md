@@ -10,19 +10,13 @@ LWE 암호화·복호화 → 동형 **덧셈** → **곱셈(텐서곱)** → **�
 ### 1. JupyterLite — 설치·계정 전혀 필요 없음, 클릭만
 브라우저 안에서 바로 실행됩니다.
 
-- **실습**: <https://walllnut.github.io/FHE16_Seminar/lab/index.html?path=fhe_lwe_ntt_practice_pure.ipynb>
-- **답지**: <https://walllnut.github.io/FHE16_Seminar/lab/index.html?path=fhe_lwe_ntt_practice_solution.ipynb>
+- **실습**: <https://walllnut.github.io/FHE16_Seminar/lab/index.html?path=fhe_practice_v2.ipynb>
+- **답지**: <https://walllnut.github.io/FHE16_Seminar/lab/index.html?path=fhe_practice_v2_solution.ipynb>
 
 > 열리면 상단 **≫ (Restart & Run All)** 또는 셀마다 **Shift+Enter**.
 
 ### 2. Google Colab — 구글 로그인만
-<https://colab.research.google.com/github/waLLLnut/FHE16_Seminar/blob/main/practice/fhe_lwe_ntt_practice_pure.ipynb>
-
-### 3. 로컬 — 파이썬만 있으면 (설치 0)
-```bash
-python3 practice/fhe_practice_pure.py
-```
-표준 라이브러리(`random`, `cmath`)만 사용 → 아나콘다·numpy·pip 없이 실행됩니다.
+<https://colab.research.google.com/github/waLLLnut/FHE16_Seminar/blob/main/practice/fhe_practice_v2.ipynb>
 
 ---
 
@@ -30,9 +24,8 @@ python3 practice/fhe_practice_pure.py
 
 | 파일 | 설명 |
 |---|---|
-| `practice/fhe_lwe_ntt_practice_pure.ipynb` | **실습** 노트북 (순수 파이썬, ★실습 1~4 포함) |
-| `practice/fhe_lwe_ntt_practice_solution.ipynb` | **답지** (★실습 채운 버전 + 답안 요약) |
-| `practice/fhe_practice_pure.py` | 노트북 없이 바로 실행되는 순수 파이썬 스크립트 |
+| `practice/fhe_practice_v2.ipynb` | **실습** 노트북 (순수 파이썬, 토이 n=1 / ★실습 n=2) |
+| `practice/fhe_practice_v2_solution.ipynb` | **답지** (★실습 채운 버전 + 답안 요약) |
 
 - 모두 표준 라이브러리(`random`, `cmath`)만 사용합니다.
 - 생성 스크립트: `build_notebook_pure.py`(실습), `build_solution_pure.py`(답지).
